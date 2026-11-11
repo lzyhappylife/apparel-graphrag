@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "roles": {
+    "planner": "Qwen3-4B-Instruct-2507-4bit",
+    "extractor": "Qwen3-4B-Instruct-2507-4bit",
+    "verifier": "Qwen3-4B-Instruct-2507-4bit",
+    "answerer": "Qwen3-4B-Instruct-2507-4bit",
+    "embedding": "BAAI/bge-small-zh-v1.5",
+    "reranker": "BAAI/bge-reranker-v2-m3-int8"
+  },
+  "change_effects": {
+    "planner/verifier/answerer": "可换模型后直接重跑问答",
+    "embedding": "必须重建向量索引",
+    "extractor": "需要重新抽取关系并复核",
+    "reranker": "无需重建原文图，重新检索即可"
+  },
+  "policy": "每次问答记录领域配置、模型配置和索引版本"
+}

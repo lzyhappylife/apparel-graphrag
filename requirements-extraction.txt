@@ -1,0 +1,5 @@
+-r requirements-semantic.txt
+mlx==0.32.4
+mlx-lm==0.32.2
+mlx-metal==0.32.4
+transformers==5.22.2

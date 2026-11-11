@@ -1,0 +1,140 @@
+[
+  {
+    "id": "A1",
+    "title": "欧盟数字产品护照与纺织服装优先品类（官方说明摘要）",
+    "text": "1. 数字产品护照是用于产品、组件和材料的数字数据容器，用于支持产品可持续性、促进循环利用并加强和便利法律合规。\n2. 数字产品护照可包含产品的安全、来源、材料、可维修性、环境表现、再使用和回收等信息。\n3. 纺织服装被欧盟委员会列为可能引入数字产品护照的优先产品组。\n4. 数字产品护照可以改善价值链的可追溯性和透明度，并帮助企业、消费者、维修者、回收者和主管部门获得可靠的产品信息。\n5. 欧盟委员会工作计划对纺织品的具体产品组要求给出约 2027 年的指示性时间安排，实际义务以产品类别授权法案为准。",
+    "url": "https://single-market-economy.ec.europa.eu/single-market/digital-product-passport_en",
+    "published": "官方页面",
+    "retrieved": "2026-11-11",
+    "version_status": "欧盟委员会官方页面；工作计划时间为指示性安排",
+    "sha256": "cdfea4a22dec4aefc24ae3528198b5dcb5fb061b8b0a6836677bdbf9b095ee05",
+    "trusted": true,
+    "format": "curated_official_excerpt",
+    "collection_method": "官方页面要点整理；需以链接中的最新原文和适用法域复核",
+    "schema_id": "apparel_traceability",
+    "kind": "reference",
+    "parse_metadata": {
+      "method": "curated_text",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "中文要点为工作台检索摘要；正式合规结论须回看原始链接"
+      ]
+    }
+  },
+  {
+    "id": "A2",
+    "title": "Regulation (EU) 2024/1781 数字产品护照数据元素（官方法规摘要）",
+    "text": "1. 数字产品护照的产品数据可以包括唯一产品标识符。\n2. 数字产品护照的产品数据可以包括全球贸易项目代码或等效产品标识。\n3. 数字产品护照的产品数据可以包括相关商品编码，例如 TARIC 编码。\n4. 数字产品护照的产品数据可以包括合规文件、技术文件、符合性声明或符合性证书。\n5. 数字产品护照的相关信息可以关联经济运营商和生产设施的标识信息。\n6. 生态设计信息要求应当能够核验，具体核验方式可以依据技术文件或直接检查。",
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj/eng",
+    "published": "官方页面",
+    "retrieved": "2026-11-11",
+    "version_status": "欧盟法规 2024/1781；应按目标市场确认适用范围",
+    "sha256": "616117b00014e545e9c04908a710b9220d6f5b17d40ea148019fa1d34e378c05",
+    "trusted": true,
+    "format": "curated_official_excerpt",
+    "collection_method": "官方页面要点整理；需以链接中的最新原文和适用法域复核",
+    "schema_id": "apparel_traceability",
+    "kind": "reference",
+    "parse_metadata": {
+      "method": "curated_text",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "中文要点为工作台检索摘要；正式合规结论须回看原始链接"
+      ]
+    }
+  },
+  {
+    "id": "A3",
+    "title": "ECHA REACH 附件 XVII 纺织品与皮革限制（官方摘要）",
+    "text": "1. REACH 附件 XVII 规定了对物质、混合物和物品适用的限制条件。\n2. 相关限制条目涉及服装、床上用品、毛巾、假发、帽子、尿布和其他纺织或皮革相关物品。\n3. 部分限制条目涉及用于纺织品和皮革着色的物质或混合物。\n4. 产品合规判断需要把受限物质条目、产品类别、供应商资料、检测报告和批次对应起来。\n5. SDS、检测报告和材料批次之间缺少对应关系时，不能仅凭供应商的一般声明证明具体产品合规。",
+    "url": "https://echa.europa.eu/documents/10162/bd51087b-9917-b018-69ac-d7594315e2a9",
+    "published": "官方页面",
+    "retrieved": "2026-11-11",
+    "version_status": "ECHA 官方 REACH 附件 XVII；具体物质和限值须按当前条目核对",
+    "sha256": "f1584669e4fc3518acb071f14f3dd92592a94ce1c47a6010478d6b8c455d3d18",
+    "trusted": true,
+    "format": "curated_official_excerpt",
+    "collection_method": "官方页面要点整理；需以链接中的最新原文和适用法域复核",
+    "schema_id": "apparel_traceability",
+    "kind": "reference",
+    "parse_metadata": {
+      "method": "curated_text",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "中文要点为工作台检索摘要；正式合规结论须回看原始链接"
+      ]
+    }
+  },
+  {
+    "id": "A4",
+    "title": "OECD 服装与鞋类负责任供应链尽职调查（官方摘要）",
+    "text": "1. 服装和鞋类行业的供应链包含多种工艺、参与者、地理来源和贸易路线。\n2. 行业供应链通常具有多层级、跨地域和分散的特点，企业因此难以管理劳动、人权、环境和诚信风险。\n3. 风险尽职调查需要识别、预防、减缓和跟踪供应链中的潜在负面影响。\n4. 供应商评估应当帮助企业采取行动，不能替代持续监测以及与相关利益方的协作。\n5. 供应链风险判断应保留供应商、工厂、地区、订单、审计、整改和证据之间的关系。",
+    "url": "https://www.oecd.org/en/topics/sub-issues/due-diligence-guidance-for-responsible-business-conduct/responsible-garment-and-footwear-supply-chains.html",
+    "published": "官方页面",
+    "retrieved": "2026-11-11",
+    "version_status": "OECD 行业尽调指导；用于风险识别和供应链治理，不替代当地法律",
+    "sha256": "12e1c9093944004dc8fb2959f47e6eacd359845499ad668bd8a6af75a03a7f99",
+    "trusted": true,
+    "format": "curated_official_excerpt",
+    "collection_method": "官方页面要点整理；需以链接中的最新原文和适用法域复核",
+    "schema_id": "apparel_traceability",
+    "kind": "reference",
+    "parse_metadata": {
+      "method": "curated_text",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "中文要点为工作台检索摘要；正式合规结论须回看原始链接"
+      ]
+    }
+  },
+  {
+    "id": "A5",
+    "title": "服装产品变更控制与质量追溯工作指引（企业模板示例）",
+    "text": "1. Tech Pack、BOM、尺寸表、面料规格和洗标属于同一款式的关联产品文件。\n2. 面料成分、克重、供应商或生产工厂发生变化时，应检查成本、交期、检测、质量标准和商品详情的影响。\n3. 质量缺陷应至少关联款式、订单、生产工厂、工序、面料批次和检验记录。\n4. 没有订单、批次或检验记录时，系统只能回答规范要求，不能判断某家工厂已经发生某项缺陷。\n5. 产品声明应当能够回指到材料、批次、检测报告或认证证书；缺少证据时应标记为待补证。",
+    "url": "https://example.invalid/apparel-change-control-template",
+    "published": "官方页面",
+    "retrieved": "2026-11-11",
+    "version_status": "企业内部模板示例；不是法规或第三方认证依据",
+    "sha256": "d2c8e4cdcbd2b3be827fc928bb4fd2ecac3950959b34036c9fcc29d1158cd591",
+    "trusted": true,
+    "format": "curated_official_excerpt",
+    "collection_method": "官方页面要点整理；需以链接中的最新原文和适用法域复核",
+    "schema_id": "apparel_traceability",
+    "kind": "guidance",
+    "parse_metadata": {
+      "method": "curated_text",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "中文要点为工作台检索摘要；正式合规结论须回看原始链接"
+      ]
+    }
+  },
+  {
+    "id": "A6",
+    "title": "XJ-2401 轻量防风夹克产品证据包（脱敏演示资料）",
+    "text": "1. 演示 SKU XJ-2401 对应款式“轻量防风夹克”，当前业务资料包包含 BOM、Tech Pack、检测报告和供应商证书。\n2. 该款 BOM 使用 RPET-100D 黑色面料，成分为 100% 再生聚酯，面料批次为 F-2026-08-17，克重为 110 g/m²。\n3. 面料批次 F-2026-08-17 由苏州清源织造厂生产，关联纱线批次 Y-2026-041。\n4. 纱线批次 Y-2026-041 的 GRS 证书编号为 GRS-2026-001，证书文件由供应商上传并待品牌复核。\n5. 检测报告 LAB-2026-102 对面料批次 F-2026-08-17 进行了 REACH 附件 XVII 相关项目检测，报告结论为通过。\n6. Tech Pack XJ-2401-v3 规定面料克重 110 g/m²、主供应商为苏州清源织造厂，生效日期为 2026-08-20。\n7. 该款洗标 CL-XJ-2401-v2 的材质描述为 100% recycled polyester，洗护要求来自 Tech Pack XJ-2401-v3。\n8. 采购订单 PO-2026-0818 采购 XJ-2401 共 5000 件，交付工厂为宁波远航成衣厂，面料批次为 F-2026-08-17。\n9. 首件检验记录 QC-XJ-2401-01 记录该批次色差为 0.8、缩水率为 2.1%，结论为合格。\n10. 本资料包是用于演示证据链查询的脱敏示例，不代表真实企业、订单或第三方认证结果。",
+    "url": "",
+    "published": "2026-08-20",
+    "retrieved": "2026-11-11",
+    "version_status": "脱敏演示资料；不是现实交易或认证证明",
+    "sha256": "6c3eca9e625a0e4df85b72fe95421b4f8effe0e8d9d310376976d25df41970e1",
+    "trusted": true,
+    "format": "demo_operational_record",
+    "collection_method": "本地脱敏演示数据",
+    "schema_id": "apparel_traceability",
+    "kind": "operational_record",
+    "parse_metadata": {
+      "method": "curated_demo",
+      "source_date": "2026-11-11",
+      "pages": [],
+      "warnings": [
+        "仅用于演示证据链；生产环境需替换为企业原始记录"
+      ]
+    }
+  }
+]

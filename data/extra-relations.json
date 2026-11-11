@@ -1,0 +1,394 @@
+[
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "产品",
+    "chunk_id": "A1:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "支持",
+    "target": "可追溯性",
+    "chunk_id": "A1:4",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "适用于",
+    "target": "服装产品",
+    "chunk_id": "A1:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "再生材料",
+    "chunk_id": "A1:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "维修",
+    "chunk_id": "A1:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "回收",
+    "chunk_id": "A1:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "纺织服装",
+    "relation": "适用于",
+    "target": "目标市场",
+    "chunk_id": "A1:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "SKU",
+    "chunk_id": "A2:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "包含",
+    "target": "合规文件",
+    "chunk_id": "A2:4",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "关联",
+    "target": "生产工厂",
+    "chunk_id": "A2:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "数字产品护照",
+    "relation": "关联",
+    "target": "进口商",
+    "chunk_id": "A2:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "合规文件",
+    "relation": "要求",
+    "target": "检测报告",
+    "chunk_id": "A2:4",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "合规文件",
+    "relation": "要求",
+    "target": "认证证书",
+    "chunk_id": "A2:4",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "REACH",
+    "relation": "限制",
+    "target": "化学品",
+    "chunk_id": "A3:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "REACH",
+    "relation": "适用于",
+    "target": "服装产品",
+    "chunk_id": "A3:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "化学品",
+    "relation": "用于",
+    "target": "染色",
+    "chunk_id": "A3:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "检测报告",
+    "relation": "证明",
+    "target": "符合",
+    "chunk_id": "A3:4",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "SDS",
+    "relation": "关联",
+    "target": "化学品",
+    "chunk_id": "A3:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "面料批次",
+    "relation": "关联",
+    "target": "检测报告",
+    "chunk_id": "A3:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "供应商",
+    "relation": "属于",
+    "target": "供应链主体",
+    "chunk_id": "A4:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "生产工厂",
+    "relation": "属于",
+    "target": "供应链主体",
+    "chunk_id": "A4:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "供应商",
+    "relation": "关联",
+    "target": "审计报告",
+    "chunk_id": "A4:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "审计报告",
+    "relation": "关联",
+    "target": "整改记录",
+    "chunk_id": "A4:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "订单",
+    "relation": "关联",
+    "target": "供应商",
+    "chunk_id": "A4:5",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "OECD尽职调查",
+    "relation": "要求",
+    "target": "审核",
+    "chunk_id": "A4:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "Tech Pack",
+    "relation": "关联",
+    "target": "BOM",
+    "chunk_id": "A5:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "BOM",
+    "relation": "关联",
+    "target": "SKU",
+    "chunk_id": "A5:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "面料",
+    "relation": "影响",
+    "target": "成本",
+    "chunk_id": "A5:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "面料",
+    "relation": "影响",
+    "target": "交期",
+    "chunk_id": "A5:2",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "面料批次",
+    "relation": "关联",
+    "target": "质量",
+    "chunk_id": "A5:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "质量",
+    "relation": "关联",
+    "target": "检测报告",
+    "chunk_id": "A5:3",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "洗标",
+    "relation": "关联",
+    "target": "SKU",
+    "chunk_id": "A5:1",
+    "kind": "reviewed",
+    "origin": "curated_domain_mapping"
+  },
+  {
+    "source": "SKU XJ-2401",
+    "relation": "对应",
+    "target": "轻量防风夹克",
+    "chunk_id": "A6:1",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "BOM",
+    "relation": "包含",
+    "target": "RPET-100D面料",
+    "chunk_id": "A6:2",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "RPET-100D面料",
+    "relation": "属于",
+    "target": "再生材料",
+    "chunk_id": "A6:2",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "RPET-100D面料",
+    "relation": "批次",
+    "target": "面料批次 F-2026-08-17",
+    "chunk_id": "A6:2",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "面料批次 F-2026-08-17",
+    "relation": "生产于",
+    "target": "苏州清源织造厂",
+    "chunk_id": "A6:3",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "面料批次 F-2026-08-17",
+    "relation": "关联",
+    "target": "纱线批次 Y-2026-041",
+    "chunk_id": "A6:3",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "纱线批次 Y-2026-041",
+    "relation": "证明",
+    "target": "GRS-2026-001",
+    "chunk_id": "A6:4",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "面料批次 F-2026-08-17",
+    "relation": "检测",
+    "target": "检测报告 LAB-2026-102",
+    "chunk_id": "A6:5",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "检测报告 LAB-2026-102",
+    "relation": "符合",
+    "target": "REACH",
+    "chunk_id": "A6:5",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "Tech Pack XJ-2401-v3",
+    "relation": "规定",
+    "target": "RPET-100D面料",
+    "chunk_id": "A6:6",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "Tech Pack XJ-2401-v3",
+    "relation": "版本",
+    "target": "XJ-2401-v3",
+    "chunk_id": "A6:6",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "洗标 CL-XJ-2401-v2",
+    "relation": "关联",
+    "target": "SKU XJ-2401",
+    "chunk_id": "A6:7",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "采购订单 PO-2026-0818",
+    "relation": "采购",
+    "target": "SKU XJ-2401",
+    "chunk_id": "A6:8",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "采购订单 PO-2026-0818",
+    "relation": "交付于",
+    "target": "宁波远航成衣厂",
+    "chunk_id": "A6:8",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "采购订单 PO-2026-0818",
+    "relation": "关联",
+    "target": "面料批次 F-2026-08-17",
+    "chunk_id": "A6:8",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "质量",
+    "relation": "关联",
+    "target": "QC-XJ-2401-01",
+    "chunk_id": "A6:9",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  },
+  {
+    "source": "QC-XJ-2401-01",
+    "relation": "关联",
+    "target": "面料批次 F-2026-08-17",
+    "chunk_id": "A6:9",
+    "kind": "reviewed",
+    "origin": "demo_record_mapping"
+  }
+]

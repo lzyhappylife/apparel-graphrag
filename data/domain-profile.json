@@ -1,0 +1,22 @@
+{
+  "id": "apparel_traceability",
+  "name": "服装产品证据与供应链决策系统",
+  "industry": "apparel",
+  "default_schema_id": "apparel_traceability",
+  "answer_scope": "产品、供应链、质量、合规和贸易证据；没有证据时拒答，不把规范当成已发生业务事实。",
+  "supported_questions": [
+    "产品护照与溯源",
+    "材料和批次追踪",
+    "供应商与工厂能力",
+    "化学品和检测合规",
+    "Tech Pack/BOM变更影响",
+    "质量缺陷追溯",
+    "出口单证核验"
+  ],
+  "data_types": [
+    "reference",
+    "guidance",
+    "operational_record"
+  ],
+  "version": 1
+}

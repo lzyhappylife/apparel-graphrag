@@ -1,0 +1,37 @@
+[
+  {
+    "id": "A-Q1",
+    "question": "数字产品护照可以包含哪些服装产品信息？",
+    "answerable": true,
+    "required": [
+      "A1:1",
+      "A1:2",
+      "A2:4"
+    ]
+  },
+  {
+    "id": "A-Q2",
+    "question": "如何把REACH、化学品、检测报告和面料批次关联起来判断产品合规？",
+    "answerable": true,
+    "required": [
+      "A3:1",
+      "A3:4",
+      "A3:5"
+    ]
+  },
+  {
+    "id": "A-Q3",
+    "question": "面料规格变化后需要检查哪些下游文件和业务影响？",
+    "answerable": true,
+    "required": [
+      "A5:1",
+      "A5:2"
+    ]
+  },
+  {
+    "id": "A-Q4",
+    "question": "没有订单和检验记录，能否证明某工厂昨天发生了色差？",
+    "answerable": false,
+    "required": []
+  }
+]
